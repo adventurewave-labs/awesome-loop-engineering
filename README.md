@@ -68,6 +68,9 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - Ralph-specific resources. Loop engineering is the superset; start here for Ralph depth.
 - [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - The layer below the loop: tools, evals, memory, MCP, permissions, observability.
+- [awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - Catalogue of production agentic patterns — the mini-architectures loops are assembled from.
+- [awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - Terminal-native coding agents and the harnesses / parallel runners that drive autonomous loops.
+- [awesome-agentic-engineering](https://github.com/jordimas/awesome-agentic-engineering) - Broader practical agentic-engineering reading; loop design sits inside it.
 - [autonomous-coding topic](https://github.com/topics/autonomous-coding) - GitHub's live index.
 
 ## Contributing
