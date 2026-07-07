@@ -4,7 +4,7 @@
 
 A curated list of resources for designing autonomous AI agent loops — the discipline of running coding agents in self-feeding cycles (Ralph and beyond): loop patterns, runners, orchestrators, memory strategies, stop conditions, and safety.
 
-*"I don't prompt Claude anymore. I have loops running that prompt Claude and figure out what to do. My job is to write loops."* — Boris Cherny, creator of Claude Code
+*"I don't prompt Claude anymore. I have loops running that prompt Claude and figure out what to do. My job is to write loops."* — Boris Cherny, creator of Claude Code
 
 ## Contents
 
@@ -22,6 +22,8 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 - [how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - Huntley's reference repo for the Ralph Wiggum Technique.
 - [Inventing the Ralph Wiggum Loop](https://devinterrupted.substack.com/p/inventing-the-ralph-wiggum-loop-creator) - Dev Interrupted interview with Huntley on how dumb loops + deterministic context allocation change the unit economics of code. ([podcast episode](https://linearb.io/dev-interrupted/podcast/inventing-the-ralph-wiggum-loop))
 - [ralph-wiggum.ai](https://ralph-wiggum.ai/) - The viral loop, simplified for teams.
+- [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) - Addy Osmani's essay that named the discipline and gave it an anatomy: automations, worktrees, skills, connectors, sub-agents, and durable external state.
+- [Stop prompting, design loops](https://x.com/steipete/status/2063697162748260627) - Peter Steinberger's one-line reframe (creator of OpenClaw): you shouldn't be prompting coding agents anymore — you should be designing loops that prompt them.
 - [How the agent loop works](https://code.claude.com/docs/en/agent-sdk/agent-loop) - Anthropic's official docs on the inner loop: evaluate → tool call → result → repeat.
 
 ## Patterns & Techniques
