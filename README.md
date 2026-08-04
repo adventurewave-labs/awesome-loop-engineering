@@ -79,6 +79,6 @@ PRs welcome — one link per PR, with a one-line description of *why it matters 
 
 ---
 
-Maintained by [Adventure Wave Labs](https://github.com/adventurewave-labs) — we also build [loopgen-rs](https://github.com/adventurewave-labs/loopgen-rs), [agentvet](https://github.com/adventurewave-labs/agentvet), and [agent-arena](https://github.com/adventurewave-labs/agent-arena) (benchmarking loop patterns, among others).
+Maintained by [Adventure Wave Labs](https://github.com/adventurewave-labs) — we also build [loopgen-rs](https://github.com/adventurewave-labs/loopgen-rs).
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
