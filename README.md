@@ -51,7 +51,7 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 ## Multi-Agent Loop Systems
 
 - [gastown](https://github.com/gastownhall/gastown) - Gas Town, via Steve Yegge: if Ralph is one agent looping, Gas Town is a community of them — a workspace manager coordinating fleets of coding agents across tasks.
-- [turbo-flow](https://github.com/marcuspat/turbo-flow) - Agentic dev environment running 600+ subagents with SPARC methodology; loop-native by design. *(ours)*
+- [turbo-flow](https://github.com/marcuspat/turbo-flow) - Agentic dev environment running 60+ subagents with SPARC methodology; loop-native by design. *(ours)*
 
 ## Harnesses & SDKs
 
