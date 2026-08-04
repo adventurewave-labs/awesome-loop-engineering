@@ -37,7 +37,6 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 
 ## Loop Runners & Orchestrators
 
-- [loopgen-rs](https://github.com/adventurewave-labs/loopgen-rs) - Agentic loop runner for Claude Code, in Rust. *(ours)*
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Production-minded Ralph implementation: safety limits, monitoring, cost controls, multiple backends. ([docs](https://mikeyobrien.github.io/ralph-orchestrator/))
 - [ralphex](https://github.com/umputun/ralphex) - Standalone CLI that orchestrates Claude Code or Codex through implementation plans from your repo root — no IDE plugins, no cloud.
 - [ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent) - Vercel Labs' "Continuous Autonomy for the AI SDK."
@@ -47,11 +46,12 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 - [autoloop](https://github.com/yaoshengzhe/autoloop) - Autonomous-iteration plugin for agentic tools: keeps running until the task is done.
 - [agentic-loop](https://github.com/allierays/agentic-loop) - RALPH + PRD-driven development toolkit; `npx agentic-loop run`.
 - [loop-maker](https://github.com/EricTechPro/loop-maker) - Interviews you, then scaffolds a self-running loop with verifier, state file, and human gate. Cross-harness (Claude Code / Codex / Hermes / OpenClaw).
+- [loopgen-rs](https://github.com/adventurewave-labs/loopgen-rs) - Agentic loop runner for Claude Code, in Rust. *(ours)*
 
 ## Multi-Agent Loop Systems
 
 - [gastown](https://github.com/gastownhall/gastown) - Gas Town, via Steve Yegge: if Ralph is one agent looping, Gas Town is a community of them — a workspace manager coordinating fleets of coding agents across tasks.
-- [turbo-flow](https://github.com/marcuspat/turbo-flow) - Agentic dev environment running 60+ subagents with SPARC methodology; loop-native by design. *(ours)*
+- [turbo-flow](https://github.com/marcuspat/turbo-flow) - Agentic dev environment running 60+ subagents via Ruflo orchestration; loop-native by design. *(ours)*
 
 ## Harnesses & SDKs
 
