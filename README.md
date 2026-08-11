@@ -4,7 +4,7 @@
 
 A curated list of resources for designing autonomous AI agent loops — the discipline of running coding agents in self-feeding cycles (Ralph and beyond): loop patterns, runners, orchestrators, memory strategies, stop conditions, and safety.
 
-*"I don't prompt Claude anymore. I have loops running that prompt Claude and figure out what to do. My job is to write loops."* — Boris Cherny, creator of Claude Code
+*"I don't prompt Claude anymore. I have loops running that prompt Claude and figure out what to do. My job is to write loops."* — Boris Cherny, Anthropic
 
 ## Contents
 
@@ -51,7 +51,7 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 ## Multi-Agent Loop Systems
 
 - [gastown](https://github.com/gastownhall/gastown) - Gas Town, via Steve Yegge: if Ralph is one agent looping, Gas Town is a community of them — a workspace manager coordinating fleets of coding agents across tasks.
-- [turbo-flow](https://github.com/marcuspat/turbo-flow) - Agentic dev environment running 60+ subagents via Ruflo orchestration; loop-native by design. *(ours)*
+- [turbo-flow](https://github.com/marcuspat/turbo-flow) - Agentic dev environment running 60+ subagents via Ruflo orchestration; loop-native by design. *(by our founder)*
 
 ## Harnesses & SDKs
 
