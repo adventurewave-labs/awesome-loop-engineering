@@ -21,7 +21,7 @@ A curated list of resources for designing autonomous AI agent loops — the disc
 - [everything is a ralph loop](https://ghuntley.com/loop/) - Geoffrey Huntley's foundational essay. The bash loop that started it: allocate specs, set a goal, loop the goal.
 - [how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - Huntley's reference repo for the Ralph Wiggum Technique.
 - [Inventing the Ralph Wiggum Loop](https://devinterrupted.substack.com/p/inventing-the-ralph-wiggum-loop-creator) - Dev Interrupted interview with Huntley on how dumb loops + deterministic context allocation change the unit economics of code. ([podcast episode](https://linearb.io/dev-interrupted/podcast/inventing-the-ralph-wiggum-loop))
-- [ralph-wiggum.ai](https://ralph-wiggum-web.onrender.com) - The viral loop, simplified for teams.
+- [ralph-wiggum.ai](https://github.com/fstandhartinger/ralph-wiggum) - The viral loop, simplified for teams.
 - [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) - Addy Osmani's essay that named the discipline and gave it an anatomy: automations, worktrees, skills, connectors, sub-agents, and durable external state.
 - [Stop prompting, design loops](https://x.com/steipete/status/2063697162748260627) ([archived](https://archive.ph/sOGZN)) - Peter Steinberger's one-line reframe (creator of OpenClaw): you shouldn't be prompting coding agents anymore — you should be designing loops that prompt them.
 - [How the agent loop works](https://code.claude.com/docs/en/agent-sdk/agent-loop) - Anthropic's official docs on the inner loop: evaluate → tool call → result → repeat.
