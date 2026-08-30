@@ -9,6 +9,26 @@ timeout = 20
 max_retries = 3
 retry_wait_time = 5
 
+# Each of these 403s or 429s every request from this CI environment but
+# was manually verified live and correct (fetched and read directly) on
+# 2026-08-30 - bot-defensive hosts (Cloudflare challenges, Substack/Medium
+# anti-scraping, archive.today's own rate limiting), not dead links.
+# Excluded here rather than accepting 403/429 globally, so a genuine
+# failure anywhere else still fails the check.
+exclude = [
+    # archive.today mirror of the steipete X citation above - 429s CI
+    # (its own anti-bot rate limiting), loads fine for a real visitor.
+    '^https://archive\.ph/sOGZN$',
+    # Dev Interrupted (Substack) interview with Geoffrey Huntley.
+    '^https://devinterrupted\.substack\.com/p/inventing-the-ralph-wiggum-loop-creator$',
+    # Same episode's podcast page on linearb.io.
+    '^https://linearb\.io/dev-interrupted/podcast/inventing-the-ralph-wiggum-loop$',
+    # Medium article on the Ralph Loop.
+    '^https://medium\.com/@tentenco/what-is-ralph-loop-a-new-era-of-autonomous-coding-96a4bb3e2ac8$',
+    # buildmvpfast.com blog post - sits behind a Cloudflare JS challenge.
+    '^https://www\.buildmvpfast\.com/blog/harness-engineering-agent-loop-agentic-coding-framework-2026$',
+]
+
 # Redirects are expected and fine (GitHub org/repo renames are exactly what
 # this workflow exists to keep pace with going forward).
 accept = [100, 200, 201, 202, 203, 204, 206, 301, 302, 303, 307, 308]
