@@ -1,0 +1,14 @@
+# Configuration for the lychee link checker used by
+# .github/workflows/link-check.yml
+#
+# Full reference: https://lychee.cli.rs/usage/config-file/
+
+# Give slower personal blogs/sites and GitHub a realistic amount of time
+# and a few retries instead of flaking CI on a slow response.
+timeout = 20
+max_retries = 3
+retry_wait_time = 5
+
+# Redirects are expected and fine (GitHub org/repo renames are exactly what
+# this workflow exists to keep pace with going forward).
+accept = [100, 200, 201, 202, 203, 204, 206, 301, 302, 303, 307, 308]
