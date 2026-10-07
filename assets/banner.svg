@@ -74,8 +74,8 @@
 <path d="M-330 0 C-330 -60 -220 -60 -220 0 C-220 60 -330 60 -330 0 C-330 -60 220 -60 220 0 C220 60 -330 60 -220 0 C-220 -60 220 -60 220 0 C220 60 110 60 110 0 C110 -60 220 -60 220 0" fill="none" stroke="none"/>
 <path d="M-300 0 a70 60 0 1 1 0.1 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
 <path d="M160 0 a70 60 0 1 1 0.1 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
-<circle r="7" fill="#e3b341" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M-300 0 a70 60 0 1 0 0.1 0 a70 60 0 1 0 -0.1 0 M0 0"/></circle>
-<circle r="7" fill="#d4c9a8"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M160 0 a70 60 0 1 0 0.1 0 a70 60 0 1 0 -0.1 0 M0 0"/></circle>
+<circle r="7" fill="#e3b341" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M-370 0 a70 60 0 1 0 140 0 a70 60 0 1 0 -140 0"/></circle>
+<circle r="7" fill="#d4c9a8"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M90 0 a70 60 0 1 0 140 0 a70 60 0 1 0 -140 0"/></circle>
 <text x="-70" y="-46" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="26" fill="#d4c9a8" text-anchor="middle">∞</text>
 <text x="0" y="40" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#9a8c72" text-anchor="middle">ralph · runners · orchestrators</text>
 
