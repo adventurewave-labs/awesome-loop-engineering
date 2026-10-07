@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="awesome-loop-engineering: A curated list of loop engineering resources — patterns, runners,">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="awesome-loop-engineering: A curated list of loop engineering resources — patterns, runners, orchestrators, and research for running AI coding agents in loops.">
 <title>awesome-loop-engineering</title>
 <defs>
 <radialGradient id="aur1"><stop offset="0" stop-color="#ec4899" stop-opacity="0.50"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
@@ -72,8 +72,8 @@
 <g transform="translate(600,308)">
 
 <path d="M-330 0 C-330 -60 -220 -60 -220 0 C-220 60 -330 60 -330 0 C-330 -60 220 -60 220 0 C220 60 -330 60 -220 0 C-220 -60 220 -60 220 0 C220 60 110 60 110 0 C110 -60 220 -60 220 0" fill="none" stroke="none"/>
-<path d="M-300 0 a70 60 0 1 1 0.1 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
-<path d="M160 0 a70 60 0 1 1 0.1 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
+<path d="M-370 0 a70 60 0 1 0 140 0 a70 60 0 1 0 -140 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
+<path d="M90 0 a70 60 0 1 0 140 0 a70 60 0 1 0 -140 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
 <circle r="7" fill="#e3b341" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M-370 0 a70 60 0 1 0 140 0 a70 60 0 1 0 -140 0"/></circle>
 <circle r="7" fill="#d4c9a8"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M90 0 a70 60 0 1 0 140 0 a70 60 0 1 0 -140 0"/></circle>
 <text x="-70" y="-46" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="26" fill="#d4c9a8" text-anchor="middle">∞</text>
