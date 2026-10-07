@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="awesome-loop-engineering — awesome-loop-engineering">
+<title>awesome-loop-engineering</title>
+<defs>
+<radialGradient id="aur1"><stop offset="0" stop-color="#ec4899" stop-opacity="0.50"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+<radialGradient id="aur2"><stop offset="0" stop-color="#f97316" stop-opacity="0.45"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb"><stop offset="0" stop-color="#f472b6" stop-opacity="0.9"/><stop offset="0.55" stop-color="#f472b6" stop-opacity="0.25"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<linearGradient id="tgrad" x1="0" x2="1"><stop offset="0" stop-color="#c9a227"/><stop offset="0.6" stop-color="#ffffff"/><stop offset="1" stop-color="#c9a227"/></linearGradient>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<linearGradient id="hglow" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#c9a227" stop-opacity="0.30"/><stop offset="1" stop-color="#c9a227" stop-opacity="0"/></linearGradient>
+<filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="glow2" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1200" height="400" fill="#04060c"/>
+<ellipse cx="250" cy="120" rx="360" ry="190" fill="url(#aur1)" filter="url(#soft)">
+<animateTransform attributeName="transform" type="translate" values="0 0; 70 24; -40 12; 0 0" dur="26s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="960" cy="150" rx="400" ry="210" fill="url(#aur2)" filter="url(#soft)">
+<animateTransform attributeName="transform" type="translate" values="0 0; -60 18; 34 -12; 0 0" dur="32s" repeatCount="indefinite"/>
+</ellipse>
+<g><circle cx="402" cy="143" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.84s" begin="-3.88s" repeatCount="indefinite"/></circle>
+<circle cx="188" cy="87" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.30s" begin="-4.57s" repeatCount="indefinite"/></circle>
+<circle cx="729" cy="133" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.18s" begin="-2.86s" repeatCount="indefinite"/></circle>
+<circle cx="712" cy="65" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.07s" begin="-0.27s" repeatCount="indefinite"/></circle>
+<circle cx="986" cy="40" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.53s" begin="-0.00s" repeatCount="indefinite"/></circle>
+<circle cx="953" cy="119" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.64s" begin="-2.63s" repeatCount="indefinite"/></circle>
+<circle cx="828" cy="179" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.44s" begin="-3.18s" repeatCount="indefinite"/></circle>
+<circle cx="855" cy="152" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.08s" begin="-1.35s" repeatCount="indefinite"/></circle>
+<circle cx="623" cy="190" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.32s" begin="-2.38s" repeatCount="indefinite"/></circle>
+<circle cx="959" cy="187" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.86s" begin="-0.04s" repeatCount="indefinite"/></circle>
+<circle cx="227" cy="155" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.63s" begin="-1.98s" repeatCount="indefinite"/></circle>
+<circle cx="727" cy="89" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.43s" begin="-1.82s" repeatCount="indefinite"/></circle>
+<circle cx="41" cy="149" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.49s" begin="-2.60s" repeatCount="indefinite"/></circle>
+<circle cx="80" cy="79" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.24s" begin="-0.38s" repeatCount="indefinite"/></circle>
+<circle cx="953" cy="115" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.50s" begin="-4.11s" repeatCount="indefinite"/></circle>
+<circle cx="417" cy="166" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.50s" begin="-1.58s" repeatCount="indefinite"/></circle>
+<circle cx="538" cy="88" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.31s" begin="-0.59s" repeatCount="indefinite"/></circle>
+<circle cx="786" cy="136" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.77s" begin="-2.57s" repeatCount="indefinite"/></circle>
+<circle cx="148" cy="80" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.06s" begin="-3.25s" repeatCount="indefinite"/></circle>
+<circle cx="738" cy="169" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.34s" begin="-4.19s" repeatCount="indefinite"/></circle>
+<circle cx="995" cy="199" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.82s" begin="-2.53s" repeatCount="indefinite"/></circle>
+<circle cx="385" cy="80" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.10s" begin="-2.44s" repeatCount="indefinite"/></circle>
+<circle cx="477" cy="104" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.95s" begin="-2.60s" repeatCount="indefinite"/></circle>
+<circle cx="702" cy="186" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.28s" begin="-0.59s" repeatCount="indefinite"/></circle>
+<circle cx="406" cy="94" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.71s" begin="-1.67s" repeatCount="indefinite"/></circle>
+<circle cx="463" cy="153" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.67s" begin="-3.05s" repeatCount="indefinite"/></circle></g>
+<rect x="0" y="236" width="1200" height="130" fill="url(#hglow)">
+<animate attributeName="opacity" values="0.45;0.9;0.45" dur="7s" repeatCount="indefinite"/>
+</rect>
+<circle cx="600" cy="242" r="90" fill="url(#orb)">
+<animate attributeName="r" values="78;110;78" dur="6s" repeatCount="indefinite"/>
+</circle>
+<path d="M600 240 L-150 400 M600 240 L0 400 M600 240 L150 400 M600 240 L300 400 M600 240 L450 400 M600 240 L600 400 M600 240 L750 400 M600 240 L900 400 M600 240 L1050 400 M600 240 L1200 400 M600 240 L1350 400" stroke="#9d174d" stroke-width="1.3" opacity="0.55" fill="none" stroke-dasharray="12 16">
+<animate attributeName="stroke-dashoffset" values="0;-56" dur="0.9s" repeatCount="indefinite"/>
+</path>
+<path d="M0 252 H1200 M0 268 H1200 M0 290 H1200 M0 318 H1200 M0 352 H1200 M0 392 H1200" stroke="#9d174d" stroke-width="1" opacity="0.35" fill="none"/>
+<circle cx="600" cy="241" r="4" fill="#c9a227" filter="url(#glow2)">
+<animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+<rect x="-260" y="-90" width="170" height="580" fill="url(#beam)" opacity="0.10" filter="url(#soft)" transform="rotate(14)">
+<animateTransform attributeName="transform" type="translate" additive="sum" values="-350 0;1750 0" dur="7s" repeatCount="indefinite"/>
+</rect>
+<rect x="-260" y="-90" width="170" height="580" fill="url(#beam)" opacity="0.07" filter="url(#soft)" transform="rotate(14)">
+<animateTransform attributeName="transform" type="translate" additive="sum" values="-350 0;1750 0" dur="7s" begin="-3.4s" repeatCount="indefinite"/>
+</rect>
+<text x="600" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="6" fill="#c9a227" opacity="0.85">ADVENTUREWAVE-LABS · AWESOME-LOOP-ENGINEERING</text>
+<text x="600" y="152" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="#c9a227" opacity="0.55" filter="url(#glow2)">awesome-loop-engineering</text>
+<text x="600" y="152" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="url(#tgrad)">awesome-loop-engineering</text>
+<text x="600" y="198" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#a8b3c4">A curated list of loop engineering resources — patterns, runners,</text>
+<text x="600" y="224" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#a8b3c4">orchestrators, and research for running AI coding agents in loops.</text>
+<g opacity="0.9"><rect x="1032" y="24" width="144" height="26" rx="13" fill="none" stroke="#c9a227" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" values="0;-18" dur="2.4s" repeatCount="indefinite"/></rect><text x="1104" y="41" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#c9a227">ARCHIVED</text></g>
+<g transform="translate(600,308)">
+
+<path d="M-330 0 C-330 -60 -220 -60 -220 0 C-220 60 -330 60 -330 0 C-330 -60 220 -60 220 0 C220 60 -330 60 -220 0 C-220 -60 220 -60 220 0 C220 60 110 60 110 0 C110 -60 220 -60 220 0" fill="none" stroke="none"/>
+<path d="M-300 0 a70 60 0 1 1 0.1 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
+<path d="M160 0 a70 60 0 1 1 0.1 0" fill="none" stroke="#8a7a5c" stroke-width="2.5"/>
+<circle r="7" fill="#e3b341" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M-300 0 a70 60 0 1 0 0.1 0 a70 60 0 1 0 -0.1 0 M0 0"/></circle>
+<circle r="7" fill="#d4c9a8"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M160 0 a70 60 0 1 0 0.1 0 a70 60 0 1 0 -0.1 0 M0 0"/></circle>
+<text x="-70" y="-46" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="26" fill="#d4c9a8" text-anchor="middle">∞</text>
+<text x="0" y="40" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#9a8c72" text-anchor="middle">ralph · runners · orchestrators</text>
+
+</g>
+</svg>
