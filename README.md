@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="awesome-loop-engineering — animated banner" width="100%"></p>
+
 # Awesome Loop Engineering (moved)
 
 > [!IMPORTANT]
